@@ -10,7 +10,7 @@ Hi, I am Daniel Fernandes:
 - 🔭 I’m looking for new opportunities.
 - 🌱 I’m currently learning Java Spring Boot, Flutter and Kotlin
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/daniel-fernandes-6377141bb/
+- 📫 Reach me: https://www.linkedin.com/in/daniel-fernandes-6377141bb/
 
 <div align="center">
   <a href="https://github.com/G3n3z">
