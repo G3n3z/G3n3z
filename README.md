@@ -15,7 +15,7 @@ Hi, I am Daniel Fernandes:
 <div align="center">
   <a href="https://github.com/G3n3z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G3n3z&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3n3z&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3n3z&layout=compact&langs_count=8"/>
 </div>
 
 <div style="display: inline_block"><br>
